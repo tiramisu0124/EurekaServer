@@ -13,6 +13,7 @@ public class EurekaServerApplication {
 		SpringApplication.run(EurekaServerApplication.class, args);
 		//new SpringApplicationBuilder(EurekaServerApplication.class).web(true).run(args);
 
+		// 测试
 	}
 
 }
